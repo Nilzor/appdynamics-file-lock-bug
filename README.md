@@ -6,7 +6,7 @@
 ## Reproduction
 
 - Run the app from Android Studio 4.1  or gradle task `app:assembleDebug` from the command line. Observe it succeeed
-- Change `Data.kt` in the `/lib` module. I.e. change "bar" to "123"
+- Make a change in `.\lib\src\main\java\com\nilzor\lib\Data.kt`. I.e. change "bar" to "123"
 - Run the app or gradle task `app:assembleDebug`
 
 Expected result: Builds successfully
