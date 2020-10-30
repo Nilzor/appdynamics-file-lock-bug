@@ -19,3 +19,5 @@ lib\build\intermediates\runtime_library_classes_jar\debug\classes.jar
 ```
 
 *) Bug will also manifest itself when building from command line
+
+If you remove the `adeum` (AppDynamics) plugin the problem disappears, proving this is related to the AppDynamics build steps
