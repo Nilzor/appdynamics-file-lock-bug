@@ -1,7 +1,7 @@
 # Repo illustrating a file lock bug in the build process of AppDynamics
 ## Prerequisites
 
-- You run on Windows
+- You run on Windows 10
 
 ## Reproduction
 
